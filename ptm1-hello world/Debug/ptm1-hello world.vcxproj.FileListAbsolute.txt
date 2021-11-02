@@ -1,0 +1,2 @@
+C:\Users\אלמוג איצקוביץ\source\repos\ptm1-hello world\Debug\ptm1-hello world.exe
+C:\Users\אלמוג איצקוביץ\source\repos\ptm1-hello world\Debug\ptm1-hello world.pdb
